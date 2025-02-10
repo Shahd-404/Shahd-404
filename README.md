@@ -71,17 +71,13 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahd-404.Shahd-404&"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/4e/c6/704ec6ee2889a2b8b3c516eb478cd783.gif"  />
 
 ###
 
