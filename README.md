@@ -58,7 +58,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/Shahd-404/Shahd-404/main/704ec6ee2889a2b8b3c516eb478cd783.gif" />
+<img align="right" height="200" src="https://github.com/Shahd-404/Shahd-404/blob/main/704ec6ee2889a2b8b3c516eb478cd783.gif?raw=true" />
 
 ###
 
