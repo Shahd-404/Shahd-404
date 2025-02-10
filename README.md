@@ -58,8 +58,13 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/Shahd-404/Shahd-404/blob/main/704ec6ee2889a2b8b3c516eb478cd783.gif?raw=true" />
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ Creating bugs since I first touched a keyboard! 🐞💻<br>📚 I'm currently learning: Advanced AI models, creative coding, and pushing the limits of motion design.<br>🎯 Goals: To blend tech & design seamlessly—making AI more visual, interactive, and accessible.<br>🚀 Graphic Designer | Motion Graphics Artist | CIS Team Member | Freelancer</p>
+
+###
 ###
 
 <img src="https://raw.githubusercontent.com/Shahd-404/Shahd-404/output/snake.svg" alt="Snake animation" />
