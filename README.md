@@ -7,12 +7,12 @@
 ###
 
 <div align="center">
-  <img height="168" src="https://media.licdn.com/dms/image/v2/D4D16AQFn4HepJXlcLA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735134689185?e=1744848000&v=beta&t=KsstGYoeeY0VYt5x84rsg-V4IZ8YzP1W1UvBiAa3xcw"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQFn4HepJXlcLA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735134689185?e=1744848000&v=beta&t=KsstGYoeeY0VYt5x84rsg-V4IZ8YzP1W1UvBiAa3xcw"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.behance.net/shahdalaa33" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="35" alt="behance logo"  />
   </a>
@@ -34,36 +34,34 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="23" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
-<img align="right" height="195" src="https://i.pinimg.com/originals/70/4e/c6/704ec6ee2889a2b8b3c516eb478cd783.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/4e/c6/704ec6ee2889a2b8b3c516eb478cd783.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<img src="https://raw.githubusercontent.com/Shahd-404/Shahd-404/output/snake.svg" alt="Snake animation" />
 
 ###
