@@ -58,7 +58,7 @@
 
 ###
 
-![GIF](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/704ec6ee2889a2b8b3c516eb478cd783.gif)
+<img align="right" height="200" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/704ec6ee2889a2b8b3c516eb478cd783.gif" />
 
 ###
 
